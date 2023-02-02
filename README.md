@@ -1,6 +1,6 @@
 <div align=center>
 
-  ### 하루 하루 성장하는 열정:fire: 넘치는 Flutter 신입개발자 최효민 입니다.
+  ### 하루 하루 성장하는 열정:fire: 넘치는 Flutter 개발자 최효민 입니다.
   
   #### :book:스킬
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
