@@ -10,6 +10,6 @@
   |--|------|---|---|
   |외주|와풀|[플레이스토어](https://play.google.com/store/apps/details?id=net.wafull)|Bloc, Rest API, Firebase, Sqlite|
   |포트폴리오|계산기|[Repository](https://github.com/pshyomin/calculator)|Cubit|
-  |포트폴리오|오늘의날씨|[Repository](https://github.com/pshyomin/calculator)||
+  |포트폴리오|오늘의날씨|[Repository](https://github.com/pshyomin/weather)||
 
 </div>
