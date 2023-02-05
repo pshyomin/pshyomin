@@ -9,6 +9,6 @@
   ||어플명|링크|사용한 기술|
   |--|------|---|---|
   |외주|와풀|[플레이스토어](https://play.google.com/store/apps/details?id=net.wafull)|Bloc, Rest API, Firebase, Sqlite|
-  |포트폴리오|계산기|[코드](https://github.com/pshyomin/calculator)||
+  |포트폴리오|계산기|[Repository](https://github.com/pshyomin/calculator)||
 
 </div>
