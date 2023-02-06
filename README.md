@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
   
   #### :computer:포트폴리오
-  ||어플명|링크|사용한 기술|
+  ||어플명|링크|사용기술|
   |--|------|---|---|
   |외주|와풀|[플레이스토어](https://play.google.com/store/apps/details?id=net.wafull)|Bloc, Rest API, Firebase, Sqlite|
   |포트폴리오|계산기|[Repository](https://github.com/pshyomin/calculator)|Cubit|
