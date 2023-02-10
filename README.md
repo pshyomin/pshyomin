@@ -9,7 +9,7 @@
   ||어플명|링크|사용기술|
   |--|------|---|---|
   |외주|와풀|[플레이스토어](https://play.google.com/store/apps/details?id=net.wafull)|Bloc, Rest API, Firebase, Sqlite|
-  |포트폴리오|계산기|[소스코드](https://github.com/pshyomin/calculator), 플레이스토어|Bloc|
-  |포트폴리오|오늘의날씨|[소스코드](https://github.com/pshyomin/weather), 플레이스토어|Bloc, Rest API|
+  |포트폴리오|계산기|[소스코드](https://github.com/pshyomin/calculator)|Bloc|
+  |포트폴리오|오늘의날씨|[소스코드](https://github.com/pshyomin/weather)|Bloc, Rest API|
 
 </div>
