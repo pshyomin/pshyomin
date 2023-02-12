@@ -17,9 +17,8 @@
   
   
   
-  ## :computer:포트폴리오
-  
-  ### [포트폴리오 플러터 웹사이트](pshyomin.github.io)
+  ## :computer:포트폴리오 ([사이트](pshyomin.github.io))
+ 
   
   |어플명|링크|사용기술|
   |------|---|---|
