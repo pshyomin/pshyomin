@@ -15,6 +15,9 @@
   |------|------------|---|---|---|
   |외주 프로젝트|와풀(wafull)|[플레이스토어](https://play.google.com/store/apps/details?id=net.wafull)|Bloc, Rest API, Firebase, Sqlite|2022.11 ~ 2022.12|
   
+  <br/>
+  <br/>
+  
   ## :computer:포트폴리오 ([사이트](pshyomin.github.io))
   |어플명|링크|사용기술|
   |------|---|---|
@@ -22,9 +25,14 @@
   |계산기|[소스코드](https://github.com/pshyomin/calculator)|Bloc|
   |오늘의날씨|[소스코드](https://github.com/pshyomin/weather)|Bloc, Rest API|
   
+  <br/>
+  <br/>
+  
   ## 🌼토이프로젝트
   ||프로젝트명|링크|
   |---|------|---|
   |C#.net|로또|[소스코드](https://github.com/pshyomin/lotto)|
 
+  <br/>
+  <br/>
 </div>
