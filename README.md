@@ -6,7 +6,7 @@
   
   
   ## :book:스킬
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/> <img src="https://img.shields.io/badge/.net-512BD4?style=flat&logo=.net&logoColor=white"/>
   
   
   
