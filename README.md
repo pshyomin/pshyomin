@@ -30,7 +30,8 @@
   ## 🌼토이프로젝트
   ||프로젝트명|링크|
   |---|------|---|
-  |C#.net|로또|[Release](https://github.com/pshyomin/lotto/releases/tag/release)|
+  |C#.net|로또|[소스코드](https://github.com/pshyomin/lotto/releases/tag/release)|
+  |C#.net|시스템케어|[소스코드](https://github.com/pshyomin/SystemCare)|
 
   <br/>
   <br/>
