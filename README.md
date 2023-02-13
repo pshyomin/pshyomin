@@ -20,8 +20,8 @@
   <br/>
   
   ## :computer:포트폴리오 ([사이트](https://pshyomin.github.io))
-  |어플명|링크|사용기술|
-  |------|---|---|
+  |어플명|링크|사용 기술 스택|
+  |------|---|------------|
   |포트폴리오|[소스코드](https://github.com/pshyomin/pshyomin.github.io)||
   |계산기|[소스코드](https://github.com/pshyomin/calculator)|Bloc|
   |오늘의날씨|[소스코드](https://github.com/pshyomin/weather)|Bloc, Rest API|
