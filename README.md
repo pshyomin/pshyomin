@@ -30,7 +30,7 @@
   <br/>
   
   ## 🌼토이프로젝트
-  ||프로젝트명|링크|개발년도|
+  ||프로젝트명|링크|개발년도||
   |---|------|---|------|---|
   |C#.net|로또|[소스코드](https://github.com/pshyomin/lotto)|2020년|1인개발|
   |C#.net|시스템케어|[소스코드](https://github.com/pshyomin/SystemCare)|2019년|1인개발|
