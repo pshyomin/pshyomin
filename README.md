@@ -19,7 +19,7 @@
   <br/>
   <br/>
   
-  ## :computer:포트폴리오 ([사이트](pshyomin.github.io))
+  ## :computer:포트폴리오 ([사이트](https://pshyomin.github.io))
   |어플명|링크|사용기술|
   |------|---|---|
   |포트폴리오|[소스코드](https://github.com/pshyomin/pshyomin.github.io)||
