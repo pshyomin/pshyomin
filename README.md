@@ -1,7 +1,7 @@
 <div align=center>
-
-  ### 하루 하루 성장하고 열정:fire: 넘치는 Flutter 개발자 최효민 입니다.
-  ### 계속해서 발전하는 모습 보여드리겠습니다. 잘 부탁드립니다.
+  
+  ## :computer:포트폴리오 
+  [웹페이지](https://pshyomin.github.io)
   
   <br/>
   
@@ -9,22 +9,11 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/> <img src="https://img.shields.io/badge/.net-512BD4?style=flat&logo=.net&logoColor=white"/>
   
   <br/>
-  <br/>
   
   ## 🏆경험
   ||어플명|링크|사용 기술 스택|기간||
   |------|------------|---|---|---|---|
   |외주 프로젝트|와풀(wafull)|[플레이스토어](https://play.google.com/store/apps/details?id=net.wafull)|Bloc, Rest API, Firebase, Sqlite|2022.11 ~ 2022.12|1인개발|
-  
-  <br/>
-  <br/>
-  
-  ## :computer:포트폴리오 ([웹페이지](https://pshyomin.github.io))
-  |어플명|링크|사용 기술 스택||
-  |------|---|------------|---|
-  |포트폴리오(:construction:)|[소스코드](https://github.com/pshyomin/pshyomin.github.io), [웹페이지](https://pshyomin.github.io)|JsonSerializable|1인개발|
-  |계산기|[소스코드](https://github.com/pshyomin/calculator)|Bloc|1인개발|
-  |오늘의날씨|[소스코드](https://github.com/pshyomin/weather)|Bloc, Rest API, JsonSerializable|1인개발|
   
   <br/>
   <br/>
