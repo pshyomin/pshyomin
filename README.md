@@ -1,6 +1,6 @@
 [![Flutter Portfolio](https://img.shields.io/badge/Flutter_Portfolio-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://pshyomin.github.io)
 
- <br/>:wave:Hello! I'm a **mobile developer** who primarily develops for Android and iOS.
+ <br/>:wave:Hello! I'm a **mobile developer** who primarily develops for Android and iOS.:robot:
  <br/>I use **:rocket:Flutter** for cross-platform development.:computer:
  <br/>
  <br/>
