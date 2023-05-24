@@ -17,7 +17,7 @@
  <br><br/>
 |프로젝트|||
 |------|---|---|
-|로코(프로토타입)|[PlayStore](https://play.google.com/store/apps/details?id=com.hyominchoi.loco)|1인 프로젝트(개발중)|
+|로코 (프로토타입)|[PlayStore](https://play.google.com/store/apps/details?id=com.hyominchoi.loco)|1인 프로젝트(0517~)|
 |Ask - ChatGPT, 무엇이든 물어보세요|[PlayStore](https://play.google.com/store/apps/details?id=com.hyominchoi.ask)|1인 프로젝트|
 |우리동네 - 국내 여행 정보|[PlayStore](https://play.google.com/store/apps/details?id=com.uridongnae.travel)|1인 프로젝트|
 |Flutter Web Portfolio|[Web](https://pshyomin.github.io)|1인 프로젝트|
