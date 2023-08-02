@@ -15,7 +15,7 @@
 
 ###### *If the Portfolio backend server is down, you might not receive data that you call into the REST API.*
  <br><br/>
-|프로젝트|||||
+|프로젝트|링크|||기간|
 |------|---|---|---|---|
 |Flutter Web Portfolio|[Web](https://pshyomin.github.io)|1인 프로젝트||ing|
 |나의집|[PlayStore](https://play.google.com/store/apps/details?id=com.mincho.publichousing)|1인 프로젝트||230726~230801|
