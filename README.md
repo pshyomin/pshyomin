@@ -17,7 +17,7 @@
  <br><br/>
 |프로젝트|링크|||기간|
 |------|---|---|---|---|
-|147||1인 프로젝트||230806~ing|
+|||1인 프로젝트||230806~ing|
 |Flutter Web Portfolio|[Web](https://pshyomin.github.io)|1인 프로젝트||ing|
 |나의집|[PlayStore](https://play.google.com/store/apps/details?id=com.mincho.publichousing)|1인 프로젝트||230726~230801|
 |나랑토크||1인 프로젝트||230612~pause|
